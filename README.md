@@ -1,5 +1,13 @@
-<div class="corpo">
-    
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
 
-
-</div>
+<body>
+    <div class="corpo">        
+        <h1>
+            Olá, meu nome é <span id="meu_nome">Lucas!</span>
+        </h1>
+    </div>
+</body>
+</html>
