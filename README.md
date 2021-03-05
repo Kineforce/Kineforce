@@ -1,6 +1,3 @@
-<div class="corpo" style="display: center">        
-    <h1>
-        Olá, meu nome é <span id="meu_nome">Lucas!</span>
-    </h1>
-</div>
+<p align="center">Welcome to my little world<p>
+<img align="center" width="604" height="453" src="">
 
