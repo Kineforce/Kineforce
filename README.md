@@ -1,3 +1,12 @@
-<div class="teste"><h1>Olá, meu nome é Lucas 👋</h1></div>
-
-<div>Usando três cerquilhas, eu consigo fazer um output na página?</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu readme!</title>
+</head>
+<body>
+    
+</body>
+</html>
