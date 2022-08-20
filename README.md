@@ -5,6 +5,9 @@
   
   <p>Welcome to my little space! </br> I am Lucas, a guy who likes to code and solve problems.</p>
   <br>
+  <p align="center">
+    <img width="250" height="200" src="imgs/code_works.jpg">
+  </p>
   <p>
   Anime🤠 lover, guitar, music 🎸🎵 and games 🎮🕹️.
   </p>
