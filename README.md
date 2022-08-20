@@ -33,16 +33,13 @@
   ### Profile Visit Count   
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kineforce.kineforce)
   <br> 
-</div>  
-<!--
-**kineforce/kineforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working with Angular and .Net 6, migrating a whole system from AngularJS/CodeIgniter 3 to Angular 13 and Lumen, dealing with some React applications too.
+      
+  ### Facts
+- 🔭 I’m currently working with Angular and .NET 3/6, migrating a whole system from AngularJS/CodeIgniter 3 to Angular 13 with Lumen on backend, dealing with some React applications too.
 - 🌱 I’m currently learning DDD and TDD, and constantly improving my basic and solving skills.
 - 👯 I’m looking to collaborate on whatever you need 😉!
 - 💬 Ask me about anything!
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: I like to be a bald person 🥸...
--->
+</div>  
+<!-- **kineforce/kineforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
